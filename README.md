@@ -1,6 +1,3 @@
-# da-promo-b-pt-ejercicios-resueltos-clase
-
-
 # Hola Promo B! Aqui estaran los ejercicios de clase! 👋
 
 
