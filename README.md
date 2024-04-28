@@ -4,7 +4,7 @@
 ## 🚀 Que haremos en este repositorio?
 
 
-Al igual que el repositorio de sus ejercicios, destinaremos este espacio para los que vayamos resolviendo con las clases invertidas! asi podran ustedes misma repasar las veces que quieran! (sigo creyendo que Github es lo mas!) 😄 
+Al igual que el repositorio de sus ejercicios, destinaremos este espacio para los que vayamos resolviendo con las clases y los pair programmings! asi podran vosotros misma repasar las veces que quieran! (sigo creyendo que Github es lo mas!) 😄 
 
 
 ## Entendiendo la estructura del repositorio
