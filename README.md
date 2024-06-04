@@ -1,12 +1,10 @@
-# Hola Promo B! Aqui estaran los ejercicios de clase! 👋
+# Hola Promo B! Aqui estaran los ejercicios de profes! 👋
 
 
 ## 🚀 Que haremos en este repositorio?
+Aquí, los profesores suben y comparten los materiales y ejercicios adicionales que a veces hacen en clase, fuera del contenido del material.
+
+## En este repositorio, solo los profesores deben suben archivos.
 
 
-Al igual que el repositorio de sus ejercicios, destinaremos este espacio para los que vayamos resolviendo con las clases y los pair programmings! asi podran vosotros misma repasar las veces que quieran! (sigo creyendo que Github es lo mas!) 😄 
 
-
-## Entendiendo la estructura del repositorio
-
-A diferencia del repositorio de sus ejercicios, este quedara conformado por las carpetas de los modulos, y en cada uno de ellas podran encontrar los ejercicios! 
