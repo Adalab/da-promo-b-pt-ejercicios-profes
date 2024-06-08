@@ -15,7 +15,7 @@ Las ramas en git son útiles para:
 
 Se recomienda crear ramas por cada nueva característica o tarea que estés trabajando en tu proyecto. 
 
-![Ramas en git](./Modulo2/assets/git_ramas.png)
+![Ramas en git](./assets/git_ramas.png)
 
 
 Para trabajar con ramas los comandos son:
@@ -48,7 +48,7 @@ Para resolver los conflictos en git, debes seguir los siguientes pasos:
   
 ### Not a git command (no es un comando de git)
 
-![Not a git command](./Modulo2/assets/ejemplo-de-error-de-not-a-git-command.png)
+![Not a git command](./assets/ejemplo-de-error-de-not-a-git-command.png)
 
 **Problema**: En el ejemplo arriba el error ocurre porque el comando git merna no existe en git, pero si git merge, como git sugiere. Este error ocasiona un tipo de problema de escritura.
 
@@ -56,7 +56,7 @@ Para resolver los conflictos en git, debes seguir los siguientes pasos:
 
 ### No such file or directory(El fichero o directorio no existe)
 
-![Aborting commit due to empty commit message](./Modulo2/assets/ejemplo-de-error-no-such-file.png)
+![Aborting commit due to empty commit message](./assets/ejemplo-de-error-no-such-file.png)
 
 **Problema:** El error "No such file or directory" en Git indica que el archivo o directorio que está intentando acceder no existe en el sistema de archivos.
 
@@ -64,7 +64,7 @@ Para resolver los conflictos en git, debes seguir los siguientes pasos:
 
 ### not a git repository (no es un repositorio git)
 
-![not a git repository](./Modulo2/assets/ejemplo-de-no-es-un-repositorio.png)
+![not a git repository](./assets/ejemplo-de-no-es-un-repositorio.png)
 
 **Problema:** El error "not a git repository" en Git indica que el directorio actual no es un repositorio Git válido.
 
@@ -72,7 +72,7 @@ Para resolver los conflictos en git, debes seguir los siguientes pasos:
 
 ### No commits yet (No hay commits todavía)
 
-![No commits yet](./Modulo2/assets/error-no-commits-yet.png)
+![No commits yet](./assets/error-no-commits-yet.png)
 
 **Problema:** El mensaje No commits yet se muestra en Git cuando inicializas un nuevo repositorio o cuando no has realizado ningún commit aún. Es un mensaje predeterminado que indica que no hay historial de commits en el repositorio.
 
